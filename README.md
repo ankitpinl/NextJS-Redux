@@ -38,16 +38,11 @@ To run any of the examples:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ankitpinl/NextJS-Redux.git
-   cd redux-examples
    ```
-2. Navigate to the desired example folder:
-   ```bash
-   cd counter-app
-   ```
-3. Install dependencies and start the project:
+2. Install dependencies and start the project:
    ```bash
    npm install
-   npm start
+   npm run dev
    ```
 
 ---
@@ -65,7 +60,7 @@ npm install
 
 Run the application:
 ```bash
-npm start
+npm run dev
 ```
 
 ---
