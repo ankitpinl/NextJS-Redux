@@ -37,7 +37,7 @@ This repository includes the following examples:
 To run any of the examples:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/redux-examples.git
+   git clone https://github.com/ankitpinl/NextJS-Redux.git
    cd redux-examples
    ```
 2. Navigate to the desired example folder:
